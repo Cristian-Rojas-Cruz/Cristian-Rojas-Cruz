@@ -1,5 +1,9 @@
 ### Hi there 👋
+# Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
+## Stats 📊
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cristian-Rojas-Cruz&show_icons=true&locale=en&theme=dark" alt="Cristian" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristian-Rojas-Cruz&show_icons=true&locale=en&theme=dark" alt="Cristian" 
 <!--
 **Cristian-Rojas-Cruz/Cristian-Rojas-Cruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
