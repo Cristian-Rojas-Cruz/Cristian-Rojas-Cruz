@@ -7,6 +7,6 @@ I love working in teams and leading challenging projects, these are activities t
 
 ## Github Statistics 📊
 <div style="display:flex; gap:20px; flex-flow: row wrap;">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Cristian-Rojas-Cruz&show_icons=true&locale=en&theme=dark" alt="Github stars" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristian-Rojas-Cruz&show_icons=true&locale=en&theme=dark&layout=compact" alt="Github technologies" >
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Cristian-Rojas-Cruz&show_icons=true&locale=en&theme=dark" alt="Github stars" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristian-Rojas-Cruz&show_icons=true&locale=en&theme=dark&layout=compact" alt="Github technologies" >
 </div>
